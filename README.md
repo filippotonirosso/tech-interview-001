@@ -13,7 +13,8 @@ This code challenge is designed to assess your ability to create and manage API 
 
 - In the homepage, build a navbar with search inputs and a button to trigger the search.
 - On the button click call the server endpoint to get the products.
-- Show the products in a grid, use responsive styling to **make it look nice**.
+- Show the products in a grid, use responsive styling to **make it look nice** and style the website using Rosso styling. 
+- Create a form to ask customers first name, last name, blood type etc
 Products cards should include `title`, `price`, `image`, `category`, `reviewAverageRating`
 
 example query => `rating > 4.25` and `price < 800` 
@@ -23,3 +24,6 @@ example query => `rating > 4.25` and `price < 800`
 - Store all the searches a user do.
 - Create a page `/history` where users can see all their searches.
 - On the top-right, add a button to clear the search history.
+
+
+Rosso Styling ideas: https://www.figma.com/design/znjTEinRWlvIEJMfkGwzcK/DonaRosso-%2F-Rednote.dev-(Setproduct-Design-System)?node-id=3737-47&t=hBwhgW8GinyGACy0-1
